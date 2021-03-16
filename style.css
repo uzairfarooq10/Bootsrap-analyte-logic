@@ -1,0 +1,23 @@
+#color{
+    color: rgb(255, 0, 0);
+}
+.icons{
+    text-align: center;
+    align-items: center;
+}
+.contact{
+    background-color: #ed1e24;
+    /* text-align: center;
+    align-items: center; */
+}
+.spacing{
+    /* line-height: 2em; */
+}
+
+.cicle{
+    border: 0.1em solid red;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+/* body > div.container.px-5.py-4 > div:nth-child(1) > div:nth-child(2) > a > span > h6 */
